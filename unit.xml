@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.447" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-01-26T15:58:55" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="git_test " timestamp="2019-01-26T15:58:55" tests="1" file="D:\Users\thiago.zenaro\Google Drive\Pessoal\Curriculo\Testes\VanHack\q2\test\tests.js" failures="0" time="1.447">
+    <testcase name="git_test  http00.json: Sample Test" time="1.447" classname="http00.json: Sample Test">
+    </testcase>
+  </testsuite>
+</testsuites>
